@@ -9,6 +9,7 @@ const GOOGLE_TTS_URL = 'http://translate.google.com/translate_tts';
 const MAX_CHARS = 100;
 const LANGUAGES = {
   'af': 'Afrikaans',
+  'bn':'Bengali',
   'sq': 'Albanian',
   'ar': 'Arabic',
   'hy': 'Armenian',
