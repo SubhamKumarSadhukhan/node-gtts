@@ -10,7 +10,7 @@ npm install node-gtts
 
 ### 1. Save audio file
 ```javascript
-var gtts = require('node-gtts')('en');
+var gtts = require('@sk/node-gtts')('en');
 var path = require('path');
 var filepath = path.join(__dirname, 'i-love-you.wav');
 
